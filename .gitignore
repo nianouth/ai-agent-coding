@@ -85,3 +85,4 @@ coverage
 # Build artifacts
 build/
 build-docs/
+dist/
