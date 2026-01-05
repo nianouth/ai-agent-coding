@@ -9,7 +9,7 @@
       <h2 class="text-2xl font-bold text-gray-900 mb-6">个人简介</h2>
       <div class="prose max-w-none">
         <p class="text-gray-700 leading-relaxed mb-4">
-          你好！欢迎来到我的技术博客。我是一名热衷于前端开发的技术爱好者，
+          你好！欢迎来到 NIANOUTH 技术博客。我是一名热衷于前端开发的技术爱好者，
           专注于现代 Web 技术和用户体验优化。
         </p>
         <p class="text-gray-700 leading-relaxed mb-4">

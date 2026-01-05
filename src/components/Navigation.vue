@@ -4,7 +4,7 @@
       <div class="flex justify-between items-center h-16">
         <div class="flex items-center">
           <router-link to="/" class="text-xl font-bold text-gray-900">
-            我的技术博客
+            NIANOUTH
           </router-link>
         </div>
         

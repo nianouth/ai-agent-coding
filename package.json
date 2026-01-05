@@ -1,7 +1,7 @@
 {
-  "name": "vite-vue3-blog",
+  "name": "nianouth-blog",
   "version": "1.0.0",
-  "description": "A modern blog built with Vite + Vue3 + VitePress + Pinia + TailwindCSS",
+  "description": "NIANOUTH 技术博客 - A modern blog built with Vite + Vue3 + VitePress + Pinia + TailwindCSS",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

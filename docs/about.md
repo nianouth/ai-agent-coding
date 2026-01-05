@@ -6,7 +6,7 @@ description: 了解这个博客项目和我。
 
 # 关于
 
-欢迎来到我的技术博客！这里分享前端开发、Vue.js、TypeScript 和现代 Web 开发技术的经验。
+欢迎来到 NIANOUTH 技术博客！这里分享前端开发、Vue.js、TypeScript 和现代 Web 开发技术的经验。
 
 ## 关于我
 

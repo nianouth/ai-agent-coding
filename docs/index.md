@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "我的技术博客"
+  name: "NIANOUTH"
   text: "探索现代 Web 开发技术"
   tagline: 分享 Vue.js、TypeScript、Vite 和前端工程化的实践经验
   image:

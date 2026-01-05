@@ -37,7 +37,7 @@ export const useBlogStore = defineStore('blog', {
         this.posts = [
           {
             id: 1,
-            title: '欢迎来到我的技术博客',
+            title: '欢迎来到 NIANOUTH 技术博客',
             slug: 'welcome-to-my-blog',
             excerpt: '这是我的第一篇技术博客，介绍了我搭建这个博客的过程和技术栈选择。',
             content: '详细内容...',

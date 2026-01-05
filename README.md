@@ -1,6 +1,6 @@
-# Vite + Vue3 + VitePress 技术博客
+# NIANOUTH 技术博客
 
-一个基于现代化技术栈构建的技术博客，支持 GitHub Pages 部署。
+基于现代化技术栈构建的技术博客，支持 GitHub Pages 部署。
 
 ## 技术栈
 
@@ -113,7 +113,7 @@ docs/                   # VitePress 文档
 
 ```bash
 # .env
-VITE_APP_TITLE=我的技术博客
+VITE_APP_TITLE=NIANOUTH
 VITE_API_URL=https://api.example.com
 ```
 
