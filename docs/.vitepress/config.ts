@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: '我的技术博客',
+  title: 'NIANOUTH',
   description: '探索现代 Web 开发技术，分享 Vue.js、TypeScript、Vite 和前端工程化的实践经验。',
   lang: 'zh-CN',
   lastUpdated: true,
@@ -17,11 +17,12 @@ export default defineConfig({
   themeConfig: {
     logo: { src: '/logo.svg', alt: '博客 Logo' },
     
-    siteTitle: '我的技术博客',
+    siteTitle: 'NIANOUTH',
     
     nav: [
       { text: '首页', link: '/' },
       { text: '博客', link: '/blog/' },
+      { text: '技术文档', link: '/tech-doc-outline' },
       { text: '关于', link: '/about/' },
       { text: 'GitHub', link: 'https://github.com', target: '_blank' }
     ],
@@ -31,10 +32,18 @@ export default defineConfig({
         {
           text: '博客文章',
           items: [
-            { text: '欢迎来到我的技术博客', link: '/blog/welcome-to-my-blog' },
+            { text: '欢迎来到 NIANOUTH 技术博客', link: '/blog/welcome-to-my-blog' },
             { text: 'Vue 3 组合式 API 详解', link: '/blog/vue3-composition-api' },
             { text: 'TypeScript 最佳实践', link: '/blog/typescript-best-practices' },
             { text: 'Vite 构建工具使用指南', link: '/blog/vite-build-guide' },
+          ]
+        }
+      ],
+      '/': [
+        {
+          text: '技术文档',
+          items: [
+            { text: '企业级前端项目技术文档编写大纲', link: '/tech-doc-outline' },
           ]
         }
       ]
